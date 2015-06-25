@@ -1,2 +1,10 @@
 .idea
 *.iml
+CodeNameOneBuildClient.jar
+JavaSE.jar
+build.xml
+build/
+codenameone_settings.properties
+designer.jar
+lib/
+nbproject/
